@@ -31,19 +31,9 @@
 ### 🚀 Featured Projects | 项目展示
 
 <p align="left">
-  🔹 <a href="https://github.com/Giveupmoon/process-io-monitor">Process IO Monitor</a><br>
-  <em>EN:</em> A Telegram bot that monitors Linux process IO in real time.<br>
-  <em>CN：</em> 一个基于 Telegram 的 Linux 进程磁盘 IO 实时监控工具。
-  <br><br>
-
   🔹 <a href="https://github.com/Giveupmoon/openclash-overwrite">OpenClash Overwrite</a><br>
-  <em>EN:</em> A smart policy override module that enhances OpenClash routing intelligence.<br>
-  <em>CN：</em> 智能策略组覆写模块，让 OpenClash 的路由决策更智能。
-  <br><br>
-
-  🔹 <a href="https://github.com/Giveupmoon/docker-compose-library">Docker Compose Library</a><br>
-  <em>EN:</em> A collection of practical docker-compose templates for self-hosted services.<br>
-  <em>CN：</em> 收集常用服务的 docker-compose 模板，快速部署自建服务。
+  OpenClash overwrites configurations, allowing you to quickly and perfectly start OpenClash from zero.<br>
+  OpenClash覆写模块相关配置，让你快速且完美的从0启动OpenClash。
 </p>
 
 ---
