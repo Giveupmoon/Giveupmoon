@@ -10,7 +10,6 @@
 ### 📊 GitHub Stats | GitHub 统计
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Giveupmoon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giveupmoon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200px"/>
 </p>
 
 ---
