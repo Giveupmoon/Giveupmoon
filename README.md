@@ -31,7 +31,7 @@
 ### 🚀 Featured Projects | 项目展示
 
 <p align="left">
-  🔹 <a href="https://github.com/Giveupmoon/openclash-overwrite">OpenClash Overwrite</a><br>
+  🔹 <a href="https://github.com/Giveupmoon/OpenClash_Overwrite">OpenClash Overwrite</a><br>
   OpenClash overwrites configurations, allowing you to quickly and perfectly start OpenClash from zero.<br>
   OpenClash覆写模块相关配置，让你快速且完美的从0启动OpenClash。
 </p>
