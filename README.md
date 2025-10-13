@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Giveupmoon</h1>
 <p align="center">
   💻 Like to tinker with interesting stuff, please ignore the junk in my warehouse.<br>
-  💻 喜欢折腾些有趣的东西，请忽略我仓库里的垃圾.
+  💻 喜欢折腾些有趣的东西，忽略我仓库里的垃圾就好.
 </p>
 
 ---
