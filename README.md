@@ -5,15 +5,6 @@
   💻 喜欢折腾些有趣的东西，忽略我仓库里的垃圾就好.
 </p>
 
----
-
-### 📊 GitHub Stats | GitHub 统计
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giveupmoon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200px"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake | 动态贡献图
 
 <p align="center">
