@@ -5,6 +5,10 @@
   💻 喜欢折腾些有趣的东西，忽略我仓库里的垃圾就好.
 </p>
 
+### 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Giveupmoon&show_icons=true&&show=discussions_started,discussions_answered,prs_merged&theme=transparent)
+
 ### 🐍 Contribution Snake | 动态贡献图
 
 <p align="center">
