@@ -9,18 +9,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Giveupmoon&show_icons=true&&show=discussions_started,discussions_answered,prs_merged&theme=transparent)
 
-### 🐍 Contribution Snake | 动态贡献图
-
-<p align="center">
-  <a href="https://github.com/Giveupmoon/Giveupmoon/actions">
-    <img src="https://github.com/Giveupmoon/Giveupmoon/actions/workflows/snake.yml/badge.svg" alt="GitHub Snake Generation Status"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Giveupmoon/Giveupmoon/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
 ---
 
 ### 🚀 Featured Projects | 项目展示
