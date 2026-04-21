@@ -13,7 +13,7 @@
 
 ### 🚀 Featured Projects | 项目展示
 
-🔹 [OpenClash Overwrite](https://github.com/Giveupmoon/OpenClash_Overwrite)
+🔹 [OpenClash Overwrite](https://github.com/Giveupmoon/OpenClash_Overwrite)  
 OpenClash overwrites configurations, allowing you to quickly and perfectly start OpenClash from zero.  
 OpenClash覆写模块相关配置，让你快速且完美的从0启动OpenClash。  
   🔹 [Clash_Rules_Yaml](https://github.com/Giveupmoon/Clash_Rules_Yaml)  
