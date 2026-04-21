@@ -13,11 +13,12 @@
 
 ### 🚀 Featured Projects | 项目展示
 
-<p align="left">
-  🔹 <a href="https://github.com/Giveupmoon/OpenClash_Overwrite">OpenClash Overwrite</a><br>
-  OpenClash overwrites configurations, allowing you to quickly and perfectly start OpenClash from zero.<br>
-  OpenClash覆写模块相关配置，让你快速且完美的从0启动OpenClash。
-</p>
+🔹 [OpenClash Overwrite](https://github.com/Giveupmoon/OpenClash_Overwrite)
+OpenClash overwrites configurations, allowing you to quickly and perfectly start OpenClash from zero.  
+OpenClash覆写模块相关配置，让你快速且完美的从0启动OpenClash。  
+  🔹 [Clash_Rules_Yaml](https://github.com/Giveupmoon/Clash_Rules_Yaml)  
+  A startup configuration file for the Clash Mihome kernel.  
+  一份对于Clash Mihome内核的启动配置文件.  
 
 ---
 
