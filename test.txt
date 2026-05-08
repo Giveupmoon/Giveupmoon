@@ -1,0 +1,8 @@
+proxies:
+- {name: 百度直连, type: http, server: 183.240.98.84, port: 443, headers: {Host: sptest.baidu.com, X-T5-Auth: 482857715}}
+proxy-groups:
+- {name: 默认选择, type: select, include-all: true}
+rules:
+- geosite,category-ads-all,REJECT
+- MATCH,默认选择
+- MATCH,REJECT
